@@ -1,5 +1,5 @@
 # 7ZipFuzzer
-Fazer for 7Zip (.zip format)
+Fuzzer for 7Zip (.zip format)
 
 ## More info
 ### About .zip
